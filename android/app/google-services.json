@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389166136858",
+    "project_id": "flutter-firestore-de808",
+    "storage_bucket": "flutter-firestore-de808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389166136858:android:ae2f212cb96a5963b21ba3",
+        "android_client_info": {
+          "package_name": "com.bfc.flutter_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNtgZoAShUze0pE01nRbUabmfBNZZYRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
